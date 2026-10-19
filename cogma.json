@@ -1,0 +1,15 @@
+{
+  "nev": "HappyHub",
+  "domain": "https://bermolnar.github.io/HAPPYHUB/",
+  "forras": ".",
+  "indexelheto": true,
+  "figyel": false,
+  "megjegyzes": "GitHub Pages (bermolnar), szünetel.",
+  "kihagy": [
+    "node_modules/",
+    "scripts/",
+    "package*.json",
+    "README.md",
+    "cogma.json"
+  ]
+}
